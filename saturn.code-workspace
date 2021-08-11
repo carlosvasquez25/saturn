@@ -12,7 +12,8 @@
 	],
 	"settings": {
 		"conventionalCommits.scopes": [
-			"saturn"
+			"saturn",
+			"saturn-server"
 		]
 	}
 }
